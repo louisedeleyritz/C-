@@ -1,4 +1,4 @@
-// power of integer numbers part 1 
+// Exercise 7 bis: Second recursive definition 
 #include <iostream>
 using namespace std; 
 
